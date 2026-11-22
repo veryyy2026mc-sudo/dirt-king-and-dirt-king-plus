@@ -72,6 +72,30 @@ If you change a recipe, keep the recipe's `type` and other required fields intac
 * Back up your world before installing, updating, or editing datapacks.
 * These projects are licensed under MIT, as listed on their Modrinth pages.
 
+## Additional Extensions
+
+### Dirt Land
+
+[**Dirt Land on Modrinth**](https://modrinth.com/mod/dirt-land)
+
+An optional expansion mod that adds a new dirt-themed dimension to Minecraft.
+
+**Features:**
+- 1 new biome
+- 1 new dimension
+- 1 new block
+- 1 new item
+- Structures in the new dimension, including villages, strongholds, igloos, and fossils
+
+**Compatibility:**
+- Minecraft: Java Edition 26.3
+- Mod loader: NeoForge
+- Supported environment: Singleplayer and server-side
+
+Dirt Land is a separate mod, not a required dependency for Dirt King or Dirt King Plus. It can be added as an optional extension. The project page states that its mod version supports NeoForge; other mod loaders are not supported.
+
+The Dirt Land project also notes that combining it with Dirt King can make progression much easier.
+
 ## Links
 
 * [Dirt King on Modrinth](https://modrinth.com/datapack/dirt-king)
