@@ -98,7 +98,7 @@ The Dirt Land project also notes that combining it with Dirt King can make progr
 
 ## Support
 
-Please support the development on [Patreon](https://patreon.com/verymodmc).
+* Please support the development on [Patreon](https://patreon.com/verymodmc).
 
 ## Links
 
