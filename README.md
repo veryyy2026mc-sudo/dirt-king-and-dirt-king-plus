@@ -14,7 +14,7 @@ The two datapacks can be used independently. For the expanded experience, instal
 
 ## Compatibility
 
-* **Minecraft:** Java Edition 26.3,26.2,26.1.x
+* **Minecraft:** Java Edition
 * **Type:** Datapack and mod
 * **Environment:** Singleplayer and server-side
 * **Pack format:** 121
