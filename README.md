@@ -96,8 +96,11 @@ Dirt Land is a separate mod, not a required dependency for Dirt King or Dirt Kin
 
 The Dirt Land project also notes that combining it with Dirt King can make progression much easier.
 
+## Support
+
+Please support the development on [Patreon](https://patreon.com/verymodmc).
+
 ## Links
 
 * [Dirt King on Modrinth](https://modrinth.com/datapack/dirt-king)
 * [Dirt King Plus on Modrinth](https://modrinth.com/datapack/dirt-king-plus)
-
