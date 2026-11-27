@@ -66,7 +66,7 @@ If you change a recipe, keep the recipe's `type` and other required fields intac
 
 ## Notes
 
-* Dirt King Plus can run by itself, but its Modrinth description recommends using it alongside Dirt King for the fuller experience.
+* Dirt King Plus can run by itself, but its recommends using it alongside Dirt King for the fuller experience.
 * The datapack version is the recommended/stable format according to the project descriptions.
 * Back up your world before installing, updating, or editing datapacks.
 * These projects are licensed under MIT, as listed on their Modrinth pages.
