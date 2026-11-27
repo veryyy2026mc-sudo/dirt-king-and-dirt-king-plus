@@ -17,7 +17,6 @@ The two datapacks can be used independently. For the expanded experience, instal
 * **Minecraft:** Java Edition
 * **Type:** Datapack and mod
 * **Environment:** Singleplayer and server-side
-* **Pack format:** 121
 
 Check the Modrinth pages for the latest supported versions.
 
